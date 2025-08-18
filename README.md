@@ -9,7 +9,7 @@ In my professional career I’ve mainly developed **backend applications and GUI
 
 I enjoy combining my engineering background with programming skills to create practical, user-oriented solutions.  
 My experience covers both machine learning projects (classification, computer vision, data processing) and general software development (object-oriented programming, databases, APIs, unit testing).  
-I thrive on new challenges and enjoy learning emerging technologies, constantly expanding my skill set to adapt and deliver effective solutions.
+I’m motivated by challenges and the opportunity to keep learning, always aiming to refine my skills and apply them in practice.
 
 **Tech stack:**  
 
