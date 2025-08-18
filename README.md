@@ -8,7 +8,7 @@ I enjoy combining my engineering background with programming skills to create pr
 My experience covers both machine learning projects and general software development.  
 
 During my studies I dedicated a lot of time to **AI/ML and computer vision**, working with tools such as PyTorch, scikit-learn, and OpenCV.  
-In my professional career I’ve mainly developed **backend applications and GUIs in Python**, using technologies like Django, FastAPI, SQL (PostgreSQL), SQLAlchemy, and PyQt5.  
+In my professional career I’ve mainly developed **backend applications and GUIs in Python**, using technologies like Django, FastAPI, SQL, SQLAlchemy, and PyQt5.  
 
 I’m motivated by challenges and the opportunity to keep learning, always aiming to refine my skills and apply them in practice.
 
