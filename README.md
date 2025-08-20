@@ -17,6 +17,6 @@ I’m motivated by challenges and the opportunity to keep learning, always aimin
 - **Programming Languages:** Python, C++  
 - **Backend & Web Development:** Django, FastAPI, SQLAlchemy, SQL (PostgreSQL)  
 - **Desktop Applications:** PyQt5  
-- **Data Analysis & Processing:** NumPy, Pandas, PyTest, Pydantic  
+- **Data Analysis & Processing:** NumPy, Pandas, Matplotlib, PyTest, Pydantic  
 - **Machine Learning & AI:** scikit-learn, PyTorch, PyTorch Lightning, OpenCV, XGBoost, SVM, Isolation Forest, PCA, SMOTE  
 - **Tools & Workflow:** Git, Docker
