@@ -1,7 +1,7 @@
 # Konrad Gieleta
 
 ## About me
-I'm a Python Developer with two years of professional experience in building data analysis tools and engineering applications.  
+I'm a Python Developer with over two years of professional experience in building data analysis tools and engineering applications.  
 I hold a **Bachelor’s degree in Mechatronics (Photonics specialization)** and I’ve completed coursework for a **Master’s in Computer Science** at Warsaw University of Technology — currently finalizing my thesis.  
 
 I enjoy combining my engineering background with programming skills to create practical, user-oriented solutions.  
